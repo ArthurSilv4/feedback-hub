@@ -53,7 +53,7 @@ export default function Index() {
             <div className="p-2 rounded-xl gradient-primary">
               <MessageSquare className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-semibold text-foreground">FeedbackHub</span>
+            <span className="text-xl font-semibold text-foreground">Echofy</span>
           </div>
           
           <div className="flex items-center gap-3">
@@ -156,7 +156,7 @@ export default function Index() {
       <footer className="border-t border-border py-8 px-4">
         <div className="container mx-auto flex items-center justify-center gap-2 text-sm text-muted-foreground">
           <MessageSquare className="h-4 w-4" />
-          <span>FeedbackHub © 2025</span>
+          <span>Echofy © 2025</span>
         </div>
       </footer>
     </div>

@@ -110,7 +110,7 @@ export default function Auth() {
           <div className="p-2 rounded-xl gradient-primary">
             <MessageSquare className="h-6 w-6 text-primary-foreground" />
           </div>
-          <span className="text-2xl font-semibold text-foreground">FeedbackHub</span>
+          <span className="text-2xl font-semibold text-foreground">Echofy</span>
         </div>
 
         <Card className="border-border/50 shadow-lg">

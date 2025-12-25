@@ -134,7 +134,7 @@ export default function Settings() {
             <div className="p-2 rounded-xl gradient-primary">
               <MessageSquare className="h-5 w-5 text-primary-foreground" />
             </div>
-            <h1 className="font-semibold text-foreground">Configurações</h1>
+            <h1 className="font-semibold text-foreground">Echofy</h1>
           </div>
         </div>
       </header>
