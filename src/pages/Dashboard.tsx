@@ -138,7 +138,7 @@ export default function Dashboard() {
               <MessageSquare className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-semibold text-foreground">FeedbackHub</h1>
+              <h1 className="font-semibold text-foreground">Echofy</h1>
               {profile && (
                 <p className="text-sm text-muted-foreground">{profile.company_name}</p>
               )}
